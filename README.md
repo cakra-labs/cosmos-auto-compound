@@ -1,1 +1,1 @@
-# cosmos-auto-compound
+# uptick-auto-compound
